@@ -1,2 +1,28 @@
-# 6cf772cc-barbershop-management-inventor
-Stop losing track of your clippers, blades, and products—this Notion template turns chaos into control with a dedicated system for every tool and supply in your barbershop.  The Barbershop Management Inventory and Asset Management Notion Template eliminates the guesswork of manual tracking by centralizing your entire inventory and asset lifecycle.
+# Barbershop Management Inventory and Asset Management Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/eVqaEX3aL3o8aNO7jCd0k0b)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/eVqaEX3aL3o8aNO7jCd0k0b)
+
